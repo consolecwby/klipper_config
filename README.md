@@ -1,3 +1,5 @@
+#This is a fork of Floris of Belgium's CR-10 Config Code to make it match mine. Worked with belgium engineers in the past and they are some of the best to work with so more trusting of this code. 
+
 # Klipper configs for CR10 / CR10s
 
 ### Hostname
